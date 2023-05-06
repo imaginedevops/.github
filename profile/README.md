@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
   ### Revolutionizing the DevOps Landscape: Imagine DevOps
 
-<h2 align="center"> Unleashing the power of your imagination. Where innovation meets automation for the ultimate DevOps experience. The platform for the dreamers, builders, and doers in the tech space. 
+<h2 align="center"> Unleashing the power of your imagination. Where innovation meets automation for the ultimate DevOps experience. The platform for the dreamers, builders, and doers in the tech space. <br/>
   
   From Concept to Delivery: Imagine DevOps for End-to-End Agnostic DevelopmentYour one-stop-shop for all things DevOps, from ideation to deployment and beyond. A unified platform for DevOps, IaC, and GitOps.</h2>
