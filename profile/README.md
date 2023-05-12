@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ### Imagine DevOps Git Mono Repository :octocat:
 
 _... managed with Ansible, Terraform, Flux, Kubernetes, Docker, Renovate and GitHub Actions_ 🤖
+_... [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Just++Imagine++...++++++++++)](https://git.io/typing-svg)
 
 </div>
 
