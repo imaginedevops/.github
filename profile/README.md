@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/89822340?v=4" align="center" width="144px" height="144px"/>
   
-## Imaginev DevOps Platform :octocat:
+## Imagine DevOps Platform :octocat:
 
 _... managed with Ansible, Terraform, Flux, Kubernetes, Docker, Renovate and GitHub Actions_ 🤖
 
