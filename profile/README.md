@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/89822340?v=4" align="center" width="144px" height="144px"/>
+<img src="https://avatars.githubusercontent.com/u/89822340?v=4" align="center" width="250px" height="250px"/>
   
 ## Imagine DevOps Platform :octocat:
 
